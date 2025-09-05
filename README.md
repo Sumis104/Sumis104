@@ -1,4 +1,4 @@
-## About me
+## GitHub
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Sumis104)
 
 ## Now Studying

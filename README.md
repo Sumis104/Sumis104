@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Sumis104)
 
 ## Now Studying
-![](https://skillicons.dev/icons?i=c,unrealengine,aftereffects,blender)
+![](https://skillicons.dev/icons?i=cpp,unrealengine)
 
 
 
